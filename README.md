@@ -1,2 +1,2 @@
 
-deployed link :   https://beach-resort1.herokuapp.com/
+deployed link :   https://beach-resort-m0rggw0v7-arjusahu.vercel.app/
